@@ -1,19 +1,17 @@
-WebSolutions - Landing Page
+# 🌐 WebSolutions - Landing Page
 
-Landing page de exemplo desenvolvida para portfólio.
+Landing page de exemplo desenvolvida para portfólio.  
 
-🚀 Tecnologias
+---
 
-HTML5
+## 🚀 Tecnologias
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
-CSS3
+---
 
-JavaScript
-
-📋 Funcionalidades
-
-Header fixo com navegação
-
-Menu responsivo com hambúrguer
-
-Footer fixo no final da página
+## 📋 Funcionalidades
+- Header fixo com navegação  
+- Menu responsivo com ícone hambúrguer  
+- Footer sempre fixo no final da página  
